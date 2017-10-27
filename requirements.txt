@@ -1,0 +1,4 @@
+#Keras==1.2.2
+#numpy==1.13.3
+#tensorflow==1.0.0
+#torch==0.2.0.post3
