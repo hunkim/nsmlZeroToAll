@@ -5,4 +5,4 @@ import os
 
 # Print nsml env variables
 for key in os.environ.keys():
-    print(key,os.environ[key])
+    print(key, os.environ[key])

@@ -4,6 +4,7 @@ import nsml
 
 from random import randint
 
+
 def bind_model(model, **kwargs):
     def save(filename, *args):
         # save the model with 'checkpoint' dictionary.
