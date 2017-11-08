@@ -1,3 +1,11 @@
+"""nsml leaderboard
+=======================
+
+nsml provides a handy leaderboard functionality. This example shows how to use
+it.
+
+"""
+
 import os
 import numpy as np
 

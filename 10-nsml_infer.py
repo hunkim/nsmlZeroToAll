@@ -1,3 +1,11 @@
+"""Inference with nsml
+=======================
+
+This example shows how to do model inference with nsml.
+
+"""
+
+
 import os
 import numpy as np
 import nsml
