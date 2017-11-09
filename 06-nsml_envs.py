@@ -1,3 +1,12 @@
+"""Environment variables and nsml
+==================================
+
+Environment variables are an integral concept of nsml. With them e.g.
+information about dataset locations are made accessible to the code. This
+example shows how to access environment variables.
+
+"""
+
 import os
 
 # Run nsml with -i (interactive option)

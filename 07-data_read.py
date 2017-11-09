@@ -1,3 +1,11 @@
+"""Accessing datasets with nsml
+==================================
+
+Machine learning relies on data. This example shows how to upload datasets to
+the nsml cloud as well as how to access them later for training.
+
+"""
+
 import os
 import numpy as np
 

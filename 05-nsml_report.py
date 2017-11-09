@@ -1,3 +1,13 @@
+"""Logging with nsml
+=====================
+
+This example shows how easy it is to log arbitrary values during program
+execution. These logs can be visualized automatically and are stored for later
+reference.
+
+"""
+
+
 import nsml
 import time
 from random import randint

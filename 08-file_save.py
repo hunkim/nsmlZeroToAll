@@ -1,3 +1,11 @@
+"""Writing results to persistent storage
+========================================
+
+This example shows you how to store (as well as access later) files created
+during your program execution.
+
+"""
+
 import os
 import numpy as np
 
